@@ -1,0 +1,32 @@
+body{
+    background:#202020;
+    color:white;
+    text-align:center;
+    font-family:Arial, sans-serif;
+}
+
+h1{
+    margin-top:50px;
+}
+
+#slot{
+    font-size:80px;
+    margin:40px 0;
+}
+
+button{
+    font-size:30px;
+    padding:15px 40px;
+    border:none;
+    border-radius:12px;
+    cursor:pointer;
+}
+
+button:hover{
+    transform:scale(1.05);
+}
+
+#result{
+    font-size:28px;
+    margin-top:30px;
+}
